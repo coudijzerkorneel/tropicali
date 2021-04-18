@@ -9,8 +9,8 @@ html {
 
 body {
     color: var(--color-white);
-    background-color: var(--color-brown);
-    font-family: 'Jost', 'Futura', sans-serif;
+    background-color: var(--color-red);
+    font-family: var(--text-font);
     font-size: 1.6em;
     line-height: 1.4;
 }

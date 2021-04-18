@@ -1,5 +1,5 @@
 :root {
-    --text-font: "Inter";
+    --text-font: 'Jost', 'Futura', sans-serif;
     --color-darkgrey: #333;
     --color-white: white;
     --color-brown: #ca774a;
