@@ -1,0 +1,14 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    color: var(--color-white);
+    background-color: var(--color-red);
+    font-size: 1em;
+}
