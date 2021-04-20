@@ -23,6 +23,11 @@
     "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^3.0.0",
-    "node-sass": "^5.0.0"
+    "node-sass": "^5.0.0",
+    "postcss": "^8.2.10",
+    "postcss-preset-env": "^6.7.0"
+  },
+  "dependencies": {
+    "lodash-template": "^4.17.21"
   }
 }
